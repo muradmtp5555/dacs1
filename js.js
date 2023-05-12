@@ -1,10 +1,3 @@
-let darkModeIcon = document.querySelector("#darkMode-icon");
-
-darkModeIcon.onclick = () => {
-  darkModeIcon.classList.toggle("bx-sun");
-  document.body.classList.toggle("dark-mode");
-};
-
 const active = document.querySelector("#active");
 const menu = document.querySelector("nav");
 

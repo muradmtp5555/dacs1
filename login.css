@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+.bx.bxl-facebook-circle.bx-tada {
+  font-size: 40px;
+}
+
+.bx.bxl-google.bx-tada {
+  font-size: 40px;
+}
+
 body {
   display: flex;
   background-color: #f6f5f7;
